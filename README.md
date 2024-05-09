@@ -1,5 +1,6 @@
 
 # CRUD
+![image](https://github.com/SolankiYogesh/NodeJS_Postgre_CRUD/assets/70507671/5c05f02c-76f3-487c-ba54-5f4fd920e48d)
 
 ## End-point: getUsers
 ### Method: GET
